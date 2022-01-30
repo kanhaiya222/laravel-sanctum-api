@@ -1,6 +1,7 @@
 # Laravel REST API with Sanctum
 
 This is an example of a REST API using auth tokens with Laravel Sanctum
+Here is the great video link https://www.youtube.com/watch?v=MT-GJQIY3EU
 
 ## Usage
 
